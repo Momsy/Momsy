@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moustapha Sy</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
+<img src="https://images.gr-assets.com/hostedimages/1610973578ra/30716486.gif" alt="alternatetext">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momsy&label=Profile%20views&color=0e75b6&style=flat" alt="momsy" /> </p>
 
